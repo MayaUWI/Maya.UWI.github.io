@@ -31,7 +31,7 @@
 	* Talk to group about other features of app to add to practice
 	* See how much I can do from ground zero in 4 hours
 * Break Down of Weekend 
-	 * Refresh memory on Firebase
+	* Refresh memory on Firebase
 	* Attempt a basic connection to dummy application
 	* Plan out potential database schema, and discuss with group
 
@@ -39,6 +39,7 @@
 				 
 ### 1st October 2018  
 ## Research and Self-improvement and other activities- Update 1 
+
 * Read up Django documentation, updated python and pip. 
 * Set up environment for windows. 
 * Did a tutorial on how to set up and display hello world with django. 
@@ -57,7 +58,7 @@
 * Questionnaire was made public this evening 
 * Group meeting scheduled for 9:30, to discuss second milestone and app specifications 
 
-*Questionnaire Format 
+* Questionnaire Format 
 	1. Pre-Application explanation
 	   * What is your student id and major? 
 	   * Do you keep track of your GPA during the semester? 
@@ -114,25 +115,25 @@
 * Amanda introduced us to <a href='https://scrumy.com/sweproject'>Scrumy</a>. We will use it to assign tasks and keep track of tasks 
 * Some tasks were removed and will be reintroduced in second sprint (Firebase, Predictive calculations etc) 
 * My tasks :  
-                * Add functionality to course detail page 
-		* Write to sqlite 
-		* Access and pull from sqllite 
-		* Update sql data and reflect in correct fields 
+	* Add functionality to course detail page 
+	* Write to sqlite 
+	* Access and pull from sqllite 
+	* Update sql data and reflect in correct fields 
 
 * Next meeting we will discuss architecture, group git practices and code structure and practices 	
 
 ### 11th October 2018  
 ## 6th online group meeting 
-				 
-	* Discussed Milestone 3  
-	* Finalized project architecture. A mixture of layer and mvc 
-	* Made sure everyone had access to android studio files via git 
-	* Started working on tasks from sprint back log 
+
+* Discussed Milestone 3  
+* Finalized project architecture. A mixture of layer and mvc 
+* Made sure everyone had access to android studio files via git 
+* Started working on tasks from sprint back log 
 	* My tasks :  
-	                * Add functionality to course detail page- Got assigned to Christopher 
-			* Write to sqlite 
-			* Access and pull from sqllite 
-			* Update sql data and reflect in correct fields 
+		* Add functionality to course detail page- Got assigned to Christopher 
+		* Write to sqlite 
+		* Access and pull from sqllite 
+		* Update sql data and reflect in correct fields 
 
 * I will start as soon as the classes are structured so I can know what variables to store etc. Created classes with explanation so group will know what the classes added are for 
            
@@ -203,12 +204,12 @@
 ### 24th October 2018  
 ## Work Update 
 				 
-* Scrapped Planned sql schema... Reviewed and Reconstructed.<a href="https://docs.google.com/document/d/1037-ddsonv-Jqjo_1Z0Y59nhM1KTjyBACSI7nKGEpk4/edit?usp=sharing"> New Schema's Here</a> 
+* Scrapped Planned sql schema... Reviewed and Reconstructed("https://docs.google.com/document/d/1037-ddsonv-Jqjo_1Z0Y59nhM1KTjyBACSI7nKGEpk4/edit?usp=sharing") [New Schema's] 
 * Spent 8 hours bringing the 2 functions GpaAdapter and SQLDataBaseHelper to par with previous content(capabilities). 
 * Pushed current work to show work is/was being done to the scrum master 
 * Decide whether to make a general adapter that handles all table creation,deletion and update with the same functions. or create separate functions for all 7 tables (... probably not the latter) 
 Did create separate functions for all. Seemed the cleanest,safest and easiest to document route. 
-* Learned a lot about the Cursor interface("https://developer.android.com/reference/android/database/Cursor#getColumnIndexOrThrow(java.lang.String)")[Google Developers 1] and ("https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%204/101_c_sqlite_database.html"](Google Developers 2)		
+* Learned a lot about the Cursor interface("https://developer.android.com/reference/android/database/Cursor#getColumnIndexOrThrow(java.lang.String)")[Google Developers 1] and ("https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%204/101_c_sqlite_database.html")[Google Developers 2]		
 
 
 * My tasks : 	 
@@ -219,19 +220,19 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 	* Access and pull from sqlite- In progress 
 	* Update sql data and reflect in correct fields- Blocked 
 
+
 ### 25th October 2018  
 ## Scrum meeting and Reflections 
 
-	**SRCUM MEETING **			
-	* Amanda talked about the blocks she faced when trying to implement the calculations  
-	* Christopher kept meeting in check by breaking all straying topics (persons going to into detail about how much work they have done) 
-	* Discuss branching problems  
+**SRCUM MEETING **	
 
+* Amanda talked about the blocks she faced when trying to implement the calculations  
+* Christopher kept meeting in check by breaking all straying topics (persons going to into detail about how much work they have done) 
+* Discuss branching problems  
 
-
-	* Meeting after scrum due to how many missed meetings 
-	* Michael cleared up code done by Azel and him.(break down of what it does) 
-	* UI and HCI Designs have been scrapped. New designs were created by Azel and Michael. 
+* Meeting after scrum due to how many missed meetings 
+* Michael cleared up code done by Azel and him.(break down of what it does) 
+* UI and HCI Designs have been scrapped. New designs were created by Azel and Michael. 
 
 * My tasks :
         * Add functionality to course detail page- Got assigned to Christopher 
@@ -249,9 +250,9 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 * Todo: Google Auth sign out, and find out why it gets a null pointer when through out the class it can access the GoogleSignInClient fine 
 
 
-*My tasks : 
+* My tasks : 
         * Add functionality to course detail page- Got assigned to Christopher 
-	*Create year detail page UI- (was assigned originally to Michael) Completed 
+	* Create year detail page UI- (was assigned originally to Michael) Completed 
 	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
 	* Write to sqlite- In progress- Completed(Got scrapped) 
 	* Access and pull from sqlite- In progress(Got scrapped) 
