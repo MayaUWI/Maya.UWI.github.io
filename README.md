@@ -130,7 +130,7 @@
 * Finalized project architecture. A mixture of layer and mvc 
 * Made sure everyone had access to android studio files via git 
 * Started working on tasks from sprint back log 
-	* My tasks :  
+* My tasks :  
 		* Add functionality to course detail page- Got assigned to Christopher 
 		* Write to sqlite 
 		* Access and pull from sqllite 
