@@ -244,12 +244,12 @@
 * UI and HCI Designs have been scrapped. New designs were created by Azel and Michael. 
 
 * My tasks :
-	* Add functionality to course detail page- Got assigned to Christopher 
-	* Create year detail page UI- (was assigned originally to Michael) Completed 
-	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
-	* Write to sqlite- In progress- Completed(Got scrapped) 
-	* Access and pull from sqlite- In progress(Got scrapped) 
-	* Update sql data and reflect in correct fields- Blocked(Got scrapped) 
+	* [ ] Add functionality to course detail page- Got assigned to Christopher 
+	* [x] Create year detail page UI- (was assigned originally to Michael)  
+	* [x] Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)  
+	* [ ] Write to sqlite- In progress- Completed(Got scrapped) 
+	* [ ] Access and pull from sqlite- In progress(Got scrapped) 
+	* [ ] Update sql data and reflect in correct fields- Blocked(Got scrapped) 
 
 ### 26th October 2018  
 **Work Update 2**
