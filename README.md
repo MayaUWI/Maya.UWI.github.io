@@ -45,8 +45,8 @@
 * Did a tutorial on how to set up and display hello world with django. 
 * Had multiple errors and setbacks (folder mix up and wrong path or name given). 
 * Kept getting weird syntax error, scrapped app and project, kept virtual environment and retried the steps. 
-* Learned tutorial was catering for 1.x.x version and the 2.x.x changed formats (path vs url) found new (https://www.codementor.io/kratos/building-an-hello-world-application-with-python-django-95sysyr6v")[tutorial]  
-* Merged new tutorials together.The ("https://djangobook.com/installing-django/")[first tutorial] explained why and*what to watch out for but ended up googling what they meant out of confusion in some parts.And second mentioned in point before, helped with the displaying "Hello,world". However need to review it to understand the process more. 
+* Learned tutorial was catering for 1.x.x version and the 2.x.x changed formats (path vs url) found new [tutorial](https://www.codementor.io/kratos/building-an-hello-world-application-with-python-django-95sysyr6v")
+* Merged new tutorials together.The [first tutorial]("https://djangobook.com/installing-django/") explained why and*what to watch out for but ended up googling what they meant out of confusion in some parts.And second mentioned in point before, helped with the displaying "Hello,world". However need to review it to understand the process more. 
 * Completed 1st task and 1/5 of second. 
 
 ### 2nd October 2018  
@@ -102,7 +102,7 @@
  ### 5th October 2018  
 ## Research, Self-Improvements and other activities- Update 2 
 
-* Reviewed group sprint backlog and revised my own from the tasks they created('https://docs.google.com/document/d/1H7IePegMNoOtisnJLxQNtQF_TbOBIb-35PeHaqPONss/edit')[Sprint backlog]
+* Reviewed group sprint backlog and revised my own from the tasks they created [Sprint backlog]('https://docs.google.com/document/d/1H7IePegMNoOtisnJLxQNtQF_TbOBIb-35PeHaqPONss/edit')
 * Slightly concerned on how groups version is not done by modules(Performing tasks as small functioning products and slowly adding to it) but broken down into class implementing   
 * Read up on SCRUM, may request to be 3rd SCRUM master 
 * discussed with group sprint backlog I created. Hybrid was decided on tasks broken into similar categories focus still on class creations 
@@ -112,9 +112,10 @@
 
 * Discussed the assignment of tasks and final discussion of sprint log 
 * Everyone chose the tasks they are confident with 
-* Amanda introduced us to <a href='https://scrumy.com/sweproject'>Scrumy</a>. We will use it to assign tasks and keep track of tasks 
+* Amanda introduced us to [Scrumy]('https://scrumy.com/sweproject'). We will use it to assign tasks and keep track of tasks 
 * Some tasks were removed and will be reintroduced in second sprint (Firebase, Predictive calculations etc) 
 * My tasks :  
+
 	* Add functionality to course detail page 
 	* Write to sqlite 
 	* Access and pull from sqllite 
@@ -164,7 +165,7 @@
 * Read up on ui practices, whats in style, trendy when done right and completely outdated 
 * ui-sketch5 is most resent proposal to group after first mock up layouts were done.  
 
-* Used tutorial for ("https://javatutorial.net/android-sqlite-database-example")[SQLite DB]. May be made redundant when Firebase is implemented.  
+* Used tutorial for [SQLite DB]("https://javatutorial.net/android-sqlite-database-example"). May be made redundant when Firebase is implemented.  
 * Will not push anything yet as I am learning and remodeling to fit needs, thus new methods and additional arguments, change in schema and how certain method behave.  
 
 ### 18th-19th (late night work) October 2018  
@@ -177,7 +178,7 @@
 * Wrote down things I believed were needed for database by thinking data examples then branched out. Image below. 
 
 
-* Planned out database: SQLite and Firebase. Placed in ("https://docs.google.com/document/d/1ksK1Qfhbh1xTBcslMPMNRTmRkhU5SfPA6kae7zHxV9M/edit?usp=sharing")[GoogleDocs]
+* Planned out database: SQLite and Firebase. Placed in [GoogleDocs]("https://docs.google.com/document/d/1ksK1Qfhbh1xTBcslMPMNRTmRkhU5SfPA6kae7zHxV9M/edit?usp=sharing")
 * My tasks :
            * Add functionality to course detail page- Got assigned to Christopher 
 	   * Create year detail page UI- (was assigned originally to Michael) Completed 
@@ -190,7 +191,7 @@
 ## ToDo's 
 				 
 * Modify schema for SQLite include table for GPA that will hold CurrentGpa,CumulativeGPA and TargetGPA. Will not hold any foreign keys but will have relations to the Semester table 
-* Will not link new GPA table to Years table as that can be calculated by application  [(YearGPA= SUM(select semester.CurrentGPa as results where ....)/count(results))]  something like that...  
+* Will not link new GPA table to Years table as that can be calculated by application  _(YearGPA= SUM(select semester.CurrentGPa as results where ....)/count(results))_  something like that...  
 * Decide whether to make a general adapter that handles all table creation,deletion and update with the same functions. or create separate functions for all 7 tables (... probably not the latter) 
 * My tasks :
           * Add functionality to course detail page- Got assigned to Christopher 
@@ -204,15 +205,16 @@
 ### 24th October 2018  
 ## Work Update 
 				 
-* Scrapped Planned sql schema... Reviewed and Reconstructed("https://docs.google.com/document/d/1037-ddsonv-Jqjo_1Z0Y59nhM1KTjyBACSI7nKGEpk4/edit?usp=sharing") [New Schema's] 
+* Scrapped Planned sql schema... Reviewed and Reconstructed [New Schema's]("https://docs.google.com/document/d/1037-ddsonv-Jqjo_1Z0Y59nhM1KTjyBACSI7nKGEpk4/edit?usp=sharing")  
 * Spent 8 hours bringing the 2 functions GpaAdapter and SQLDataBaseHelper to par with previous content(capabilities). 
 * Pushed current work to show work is/was being done to the scrum master 
 * Decide whether to make a general adapter that handles all table creation,deletion and update with the same functions. or create separate functions for all 7 tables (... probably not the latter) 
 Did create separate functions for all. Seemed the cleanest,safest and easiest to document route. 
-* Learned a lot about the Cursor interface("https://developer.android.com/reference/android/database/Cursor#getColumnIndexOrThrow(java.lang.String)")[Google Developers 1] and ("https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%204/101_c_sqlite_database.html")[Google Developers 2]		
+* Learned a lot about the Cursor interface [Google Developers 1]("https://developer.android.com/reference/android/database/Cursor#getColumnIndexOrThrow(java.lang.String)")and [Google Developers 2]("https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%204/101_c_sqlite_database.html")
 
 
-* My tasks : 	 
+* My tasks : 
+
         * Add functionality to course detail page- Got assigned to Christopher 
 	* Create year detail page UI- (was assigned originally to Michael) Completed 
 	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
@@ -245,7 +247,7 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 ### 26th October 2018  
 ## Work Update 2 
 
-* Removed SQLite classes from project:("https://gist.github.com/MayaUWI/c880c4dd6d6a2313818e87cdb291c4f3")[GpaAdapter] and ("https://gist.github.com/MayaUWI/36f6ee98c9787a36f10dca766f1847d9")[SQLDataBaseHelper] 
+* Removed SQLite classes from project: [GpaAdapter]("https://gist.github.com/MayaUWI/c880c4dd6d6a2313818e87cdb291c4f3") and [SQLDataBaseHelper]("https://gist.github.com/MayaUWI/36f6ee98c9787a36f10dca766f1847d9") 
 * Review existing code for firbase (trace through, check for bugs etc) 
 * Todo: Google Auth sign out, and find out why it gets a null pointer when through out the class it can access the GoogleSignInClient fine 
 
