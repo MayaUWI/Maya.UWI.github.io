@@ -49,6 +49,7 @@
 * Merged new tutorials together.The [first tutorial]("https://djangobook.com/installing-django/") explained why and*what to watch out for but ended up googling what they meant out of confusion in some parts.And second mentioned in point before, helped with the displaying "Hello,world". However need to review it to understand the process more. 
 * Completed 1st task and 1/5 of second. 
 ![Learning Django](image/outcome.png)
+![Learning Django](image/outcome2.png)
 
 
 ### 2nd October 2018  
@@ -155,9 +156,8 @@
 * UI might need further discussion with group 
 * Slight communication issues. Should be easy to resolve. Will speak to scrum master 
 * Team members taking on other unassigned tasks before current task completion,causing blockade for others 
-
-
 * Conflict resolution :  Start working on my assigned tasks and recreate or modify them when needed parts are completed to keep time frame  
+![Burn-Down Chart](image/bdc.png)
 
 **Research, Self-Improvements and other activities- Update 3**
 				 
@@ -166,6 +166,12 @@
 * Sketched proposed to group October 8th 2018 
 * Read up on ui practices, whats in style, trendy when done right and completely outdated 
 * ui-sketch5 is most resent proposal to group after first mock up layouts were done.  
+![UI sketch #1](image/ui-sketch1.jpg
+![UI sketch #2](image/ui-sketch2.jpg)
+![UI sketch #3](image/ui-sketch3.jpg)
+![UI sketch #4](image/ui-sketch4.jpg)
+![UI sketch #5](image/ui-sketch5.jpg)
+![UI sketch #6](image/ui-sketch6.jpg)
 
 * Used tutorial for [SQLite DB]("https://javatutorial.net/android-sqlite-database-example"). May be made redundant when Firebase is implemented.  
 * Will not push anything yet as I am learning and remodeling to fit needs, thus new methods and additional arguments, change in schema and how certain method behave.  
@@ -188,6 +194,8 @@
 	* Write to sqlite- In progress(Paused) 
 	* Access and pull from sqlite- In progress (Paused) 
 	* Update sql data and reflect in correct fields 
+![SQL schema planning](image/sqldraw.jpg)
+	
 
 ### 20th October 2018  
 **ToDo's**
@@ -275,7 +283,11 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 * Links to tutorials were shared in discord chat 
 * Discussed on what next week task are (Testing) and what methods are we going to use (Firebase? Android robolectric? Junit? espresso? All of the above?) 
 * Testing previously was hard as the group focused on developing incrementally on class relations than product blocks.  But joint group decision of next sprint being fully modular in terms of developing in mini deployable tasks  
-* The users from the one-on-one and interviews will be used for User testing after Circle CI and Application test cases are implemented   
-* Switching of roles Product-Owner and SCRUM Master will be decided in meeting before second sprint. 
+* The users from the one-on-one and interviews will be used for User testing after Circle CI and Application test cases are implemented 
+* Switching of roles Product-Owner and SCRUM Master will be decided in meeting before second sprint.
+
+![Tutorial Links](image/disc1.png)
+![Tutorial Links](image/disc2.png)
+
 
 
