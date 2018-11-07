@@ -83,7 +83,7 @@
 * I was a bit hesitant about using unity (A game engine, for a non-graphical app. Maybe it’s possible to remove unneeded libraries, packages and features?), but if majority ruled I will put in the hard work 
 * Talked about using Xamarin...to be discussed further 
 
-* Wrote 2nd milestone in shared (https://docs.google.com/document/d/1NO_lZkdvrAYv8T7Ms1wrXnUNyy6FGIgxm57Ky47fQ7I/edit?usp=sharing")[Google doc]
+* Wrote 2nd milestone in shared [Google doc](https://docs.google.com/document/d/1NO_lZkdvrAYv8T7Ms1wrXnUNyy6FGIgxm57Ky47fQ7I/edit?usp=sharing")
 * compromised on system requirements from currently available data from survey and interviews 
 * Analyze requirements using App description as guideline(set a project project scope) 
 * Paused group meeting to finish up another assignment 
@@ -214,7 +214,6 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 
 
 * My tasks : 
-
         * Add functionality to course detail page- Got assigned to Christopher 
 	* Create year detail page UI- (was assigned originally to Michael) Completed 
 	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
