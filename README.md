@@ -194,12 +194,12 @@
 * Will not link new GPA table to Years table as that can be calculated by application  _(YearGPA= SUM(select semester.CurrentGPa as results where ....)/count(results))_  something like that...  
 * Decide whether to make a general adapter that handles all table creation,deletion and update with the same functions. or create separate functions for all 7 tables (... probably not the latter) 
 * My tasks :
-          * Add functionality to course detail page- Got assigned to Christopher 
-	  * Create year detail page UI- (was assigned originally to Michael) Completed 
-	  * Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
-	  * Write to sqlite- In progress(continued) 
-	  * Access and pull from sqlite- In progress (Paused) 
-	  * Update sql data and reflect in correct fields 
+	* Add functionality to course detail page- Got assigned to Christopher 
+	* Create year detail page UI- (was assigned originally to Michael) Completed 
+	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
+	* Write to sqlite- In progress(continued) 
+	* Access and pull from sqlite- In progress (Paused) 
+	* Update sql data and reflect in correct fields 
 
 
 ### 24th October 2018  
@@ -213,7 +213,7 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 * Learned a lot about the Cursor interface [Google Developers 1]("https://developer.android.com/reference/android/database/Cursor#getColumnIndexOrThrow(java.lang.String)")and [Google Developers 2]("https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%204/101_c_sqlite_database.html")
 
 * My tasks : 
-        * Add functionality to course detail page- Got assigned to Christopher 
+	* Add functionality to course detail page- Got assigned to Christopher 
 	* Create year detail page UI- (was assigned originally to Michael) Completed 
 	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
 	* Write to sqlite- In progress- Completed 
