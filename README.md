@@ -2,16 +2,16 @@
 
 ### 26th September 2018
 ## First group meeting
-	*The team agreed on meeting time, decided who would be Scrum Master and Project owner and fleshed out ideas.
-	*Michael pitched the idea to one potential end user, and they gave feedback. Thus we decided to gain requirements through student questionnaires and interviews.
-	*Online meeting scheduled for tomorrow (Thursday) night, to discuss second milestone and further plans of action.
+* The team agreed on meeting time, decided who would be Scrum Master and Project owner and fleshed out ideas.
+* Michael pitched the idea to one potential end user, and they gave feedback. Thus we decided to gain requirements through student questionnaires and interviews.
+* Online meeting scheduled for tomorrow (Thursday) night, to discuss second milestone and further plans of action.
 
 ### 27th September 2018
 ## First online group meeting
-	*The group started the questionnaire process; figuring out what questions to ask.
-*Did research on already existing applications like ours.
-*Questionnaire planning was given 2 days with the public release on Monday and data review Tuesday evening.
-*Meeting on Saturday to discuss questionnaire questions.
+* The group started the questionnaire process; figuring out what questions to ask.
+* Did research on already existing applications like ours.
+* Questionnaire planning was given 2 days with the public release on Monday and data review Tuesday evening.
+* Meeting on Saturday to discuss questionnaire questions.
 
 ### 29th September 2018
 ## Second online group meeting
@@ -23,30 +23,30 @@
 ### 30th September 2018  
 ## Research and Self-improvement 
 				 
-*Reading up on the platforms and technologies discussed by group. Currently have 0 knowledge in Django, plan to attempt small projects to familiarize self
-						*Break Down of weekday
-							*Read up about Django, check documentation
-								*Attempt a basic hello world, basic input, output and calculations
-								*Try design and layout editing with Django (research if its even a thing)*
-								*Talk to group about other features of app to add to practice
-								*See how much I can do from ground zero in 4 hours
-					* Break Down of Weekend 
-							 *Refresh memory on Firebase
-								*Attempt a basic connection to dummy application
-								*Plan out potential database schema, and discuss with group
+* Reading up on the platforms and technologies discussed by group. Currently have 0 knowledge in Django, plan to attempt small projects to familiarize self
+* Break Down of weekday
+	* Read up about Django, check documentation
+		* Attempt a basic hello world, basic input, output and calculations
+		* Try design and layout editing with Django (research if its even a thing)*
+		* Talk to group about other features of app to add to practice
+		* See how much I can do from ground zero in 4 hours
+* Break Down of Weekend 
+	 * Refresh memory on Firebase
+		* Attempt a basic connection to dummy application
+		* Plan out potential database schema, and discuss with group
 
 * EDIT: Nope, just a framework, can use templates or create own using HTML,CSS etc. So 'deign and Layout planning while implementation Django'.
 				 
 ### 1st October 2018  
 ## Research and Self-improvement and other activities- Update 1 
-	  *Read up Django documentation, updated python and pip. 
+* Read up Django documentation, updated python and pip. 
 					* Set up environment for windows. 
 					* Did a tutorial on how to set up and display hello world with django. 
 					* Had multiple errors and setbacks (folder mix up and wrong path or name given). 
 					* Kept getting weird syntax error, scrapped app and project, kept virtual environment and retried the steps. 
 					* Learned tutorial was catering for 1.x.x version and the 2.x.x changed formats (path vs url) found new (https://www.codementor.io/kratos/building-an-hello-world-application-with-python-django-95sysyr6v")[tutorial]  
-						*Merged new tutorials together.The ("https://djangobook.com/installing-django/")[first tutorial] explained why and*what to watch out for but ended up googling what they meant out of confusion in some parts.And second mentioned in point before, helped with the displaying "Hello,world". However need to review it to understand the process more. 
-						*Completed 1st task and 1/5 of second. 
+					* Merged new tutorials together.The ("https://djangobook.com/installing-django/")[first tutorial] explained why and*what to watch out for but ended up googling what they meant out of confusion in some parts.And second mentioned in point before, helped with the displaying "Hello,world". However need to review it to understand the process more. 
+					* Completed 1st task and 1/5 of second. 
 
 ### 2nd October 2018  
 ## Project Updates 
