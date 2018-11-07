@@ -48,6 +48,8 @@
 * Learned tutorial was catering for 1.x.x version and the 2.x.x changed formats (path vs url) found new [tutorial](https://www.codementor.io/kratos/building-an-hello-world-application-with-python-django-95sysyr6v")
 * Merged new tutorials together.The [first tutorial]("https://djangobook.com/installing-django/") explained why and*what to watch out for but ended up googling what they meant out of confusion in some parts.And second mentioned in point before, helped with the displaying "Hello,world". However need to review it to understand the process more. 
 * Completed 1st task and 1/5 of second. 
+![Learning Django](image/outcome.jpg)
+
 
 ### 2nd October 2018  
 ## Project Updates 
