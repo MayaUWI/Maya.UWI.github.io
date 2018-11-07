@@ -1,27 +1,27 @@
-##SoftWare Engineering II- Journal
+**SoftWare Engineering II- Journal**
 
 ### 26th September 2018
-## First group meeting
+**First group meeting**
 * The team agreed on meeting time, decided who would be Scrum Master and Project owner and fleshed out ideas.
 * Michael pitched the idea to one potential end user, and they gave feedback. Thus we decided to gain requirements through student questionnaires and interviews.
 * Online meeting scheduled for tomorrow (Thursday) night, to discuss second milestone and further plans of action.
 
 ### 27th September 2018
-## First online group meeting
+**First online group meeting**
 * The group started the questionnaire process; figuring out what questions to ask.
 * Did research on already existing applications like ours.
 * Questionnaire planning was given 2 days with the public release on Monday and data review Tuesday evening.
 * Meeting on Saturday to discuss questionnaire questions.
 
 ### 29th September 2018
-## Second online group meeting
+**Second online group meeting**
 * Did not participate in group call due to weak connection, however stayed vigilant on links and partial conversations shared in chat
 * The group created the questionnaire, everyone contributed to the questions and edits were made
 * The questionnaire is on Google forms and the link will be shared in various UWI chat groups
 * Questionnaire sent to Lecturer for advice/critique
 
 ### 30th September 2018  
-## Research and Self-improvement 
+**Research and Self-improvement **
 				 
 * Reading up on the platforms and technologies discussed by group. Currently have 0 knowledge in Django, plan to attempt small projects to familiarize self
 * Break Down of weekday
@@ -38,7 +38,7 @@
 * EDIT: Nope, just a framework, can use templates or create own using HTML,CSS etc. So 'deign and Layout planning while implementation Django'.
 				 
 ### 1st October 2018  
-## Research and Self-improvement and other activities- Update 1 
+**Research and Self-improvement and other activities- Update 1 **
 
 * Read up Django documentation, updated python and pip. 
 * Set up environment for windows. 
@@ -48,11 +48,11 @@
 * Learned tutorial was catering for 1.x.x version and the 2.x.x changed formats (path vs url) found new [tutorial](https://www.codementor.io/kratos/building-an-hello-world-application-with-python-django-95sysyr6v")
 * Merged new tutorials together.The [first tutorial]("https://djangobook.com/installing-django/") explained why and*what to watch out for but ended up googling what they meant out of confusion in some parts.And second mentioned in point before, helped with the displaying "Hello,world". However need to review it to understand the process more. 
 * Completed 1st task and 1/5 of second. 
-![Learning Django](image/outcome.jpg)
+![Learning Django](./image/outcome.jpg)
 
 
 ### 2nd October 2018  
-## Project Updates 
+**Project Updates **
 				 
 * Time-line for questionnaire extended, still in planning phase. New expected time to be discussed in group. 
 * Questionnaire reviewed and passed inspection with lecturer. Adding physical one-on-one interviews or group interviews with current and recently graduated students 
@@ -75,7 +75,7 @@
            * Final overall opinion of app?  
 	   * Any questions? 
 
-## 3rd Online Group Meeting  
+**3rd Online Group Meeting**
 * Broke down what we needed for second milestone 
 * Discussed where to put processed data from survey and interview in project justification and feasibility study 
 * Talked about potential application development platforms, Web app vs Android native app.  
@@ -91,7 +91,7 @@
 * Paused group meeting to finish up another assignment 
 
 ### 4th October 2018  
-## 4th Online group meeting 
+**4th Online group meeting**
 
 * Agreed to meet at Mondays at 6pm. Therefore, two definite meeting times Thursday 9pm and Monday 6pm 
 * Technologies decided on: Android studio and Firebase 
@@ -102,7 +102,7 @@
 * Backlog discussion and breakdown took 2hrs, meeting was adjourned after agreement for a physical meeting tomorrow 2pm-3pm 
 
  ### 5th October 2018  
-## Research, Self-Improvements and other activities- Update 2 
+**Research, Self-Improvements and other activities- Update 2 **
 
 * Reviewed group sprint backlog and revised my own from the tasks they created [Sprint backlog]('https://docs.google.com/document/d/1H7IePegMNoOtisnJLxQNtQF_TbOBIb-35PeHaqPONss/edit')
 * Slightly concerned on how groups version is not done by modules(Performing tasks as small functioning products and slowly adding to it) but broken down into class implementing   
@@ -110,7 +110,7 @@
 * discussed with group sprint backlog I created. Hybrid was decided on tasks broken into similar categories focus still on class creations 
 
 ### 8th October 2018  
-## 5th Online group meeting 
+**5th Online group meeting **
 
 * Discussed the assignment of tasks and final discussion of sprint log 
 * Everyone chose the tasks they are confident with 
@@ -126,7 +126,7 @@
 * Next meeting we will discuss architecture, group git practices and code structure and practices 	
 
 ### 11th October 2018  
-## 6th online group meeting 
+**6th online group meeting **
 
 * Discussed Milestone 3  
 * Finalized project architecture. A mixture of layer and mvc 
@@ -141,7 +141,7 @@
 * I will start as soon as the classes are structured so I can know what variables to store etc. Created classes with explanation so group will know what the classes added are for 
            
 ### 17th October 2018  
-##  Day 6 of sprint  
+**Day 6 of sprint  **
 				 
 * I have not started the tasks related to the sqlite as yet. 
 * My tasks :  
@@ -159,7 +159,7 @@
 
 * Conflict resolution :  Start working on my assigned tasks and recreate or modify them when needed parts are completed to keep time frame  
 
-## Research, Self-Improvements and other activities- Update 3 
+**Research, Self-Improvements and other activities- Update 3 **
 				 
 * small musings: It's kind of hard to put a honest time frame on hours worked, since I like to take small breaks in between steps  
 * Future specialization/ career path: Front-end and UX 
@@ -171,7 +171,7 @@
 * Will not push anything yet as I am learning and remodeling to fit needs, thus new methods and additional arguments, change in schema and how certain method behave.  
 
 ### 18th-19th (late night work) October 2018  
-## 7-8th Day of sprint 
+**7-8th Day of sprint** 
 				 
 
 * Due to the activities on campus today and an upcoming exam for multiple group members no meeting was held today. 
@@ -190,7 +190,7 @@
 	* Update sql data and reflect in correct fields 
 
 ### 20th October 2018  
-## ToDo's 
+**ToDo's **
 				 
 * Modify schema for SQLite include table for GPA that will hold CurrentGpa,CumulativeGPA and TargetGPA. Will not hold any foreign keys but will have relations to the Semester table 
 * Will not link new GPA table to Years table as that can be calculated by application  _(YearGPA= SUM(select semester.CurrentGPa as results where ....)/count(results))_  something like that...  
@@ -205,7 +205,7 @@
 
 
 ### 24th October 2018  
-## Work Update 
+**Work Update **
 				 
 * Scrapped Planned sql schema... Reviewed and Reconstructed [New Schema's]("https://docs.google.com/document/d/1037-ddsonv-Jqjo_1Z0Y59nhM1KTjyBACSI7nKGEpk4/edit?usp=sharing")  
 * Spent 8 hours bringing the 2 functions GpaAdapter and SQLDataBaseHelper to par with previous content(capabilities). 
@@ -224,7 +224,7 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 
 
 ### 25th October 2018  
-## Scrum meeting and Reflections 
+**Scrum meeting and Reflections **
 
 **SRCUM MEETING **	
 
@@ -245,7 +245,7 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 	* Update sql data and reflect in correct fields- Blocked(Got scrapped) 
 
 ### 26th October 2018  
-## Work Update 2 
+**Work Update 2 **
 
 * Removed SQLite classes from project: [GpaAdapter]("https://gist.github.com/MayaUWI/c880c4dd6d6a2313818e87cdb291c4f3") and [SQLDataBaseHelper]("https://gist.github.com/MayaUWI/36f6ee98c9787a36f10dca766f1847d9") 
 * Review existing code for firbase (trace through, check for bugs etc) 
@@ -262,7 +262,7 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 	* Firebase Auth log out- Inprogress 
 		
 ### 29th October 2018  
-## Sprint close off and review 
+**Sprint close off and review **
 
 * Scrum master closed off sprint as the last task on the scrumy board was moved to done 
 * Everyone gave feedback: How they felt, issues they had, how they solved it, what they learned, what they expect from other members 
@@ -270,7 +270,7 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 * Second sprint will be discussed after user testing  
 	 
 ### 1st November 2018  
-## Testing (unit,UI,etc and User) 
+**Testing (unit,UI,etc and User) **
 
 * Links to tutorials were shared in discord chat 
 * Discussed on what next week task are (Testing) and what methods are we going to use (Firebase? Android robolectric? Junit? espresso? All of the above?) 
