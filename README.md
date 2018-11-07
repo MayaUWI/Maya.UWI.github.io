@@ -1,4 +1,4 @@
-**SoftWare Engineering II- Journal**
+**Software Engineering II- Journal**
 
 ### 26th September 2018
 **First group meeting**
@@ -58,10 +58,10 @@
 * Time-line for questionnaire extended, still in planning phase. New expected time to be discussed in group. 
 * Questionnaire reviewed and passed inspection with lecturer. Adding physical one-on-one interviews or group interviews with current and recently graduated students 
 * I will be writing and conducting the one-on-one interviews(Will be added to feasibility study). The Interview format and questions were reviewed by team, input was given. The ideal sample size is 15, we will accept 13 as the minimum  
-* Questionnaire was made public this evening 
+* [Questionnaire](https://docs.google.com/forms/d/1rln909jPsF6QTwPKlbZCV4Zkkb7f1zAIsKiwgj9H9M4/edit) was made public this evening 
 * Group meeting scheduled for 9:30, to discuss second milestone and app specifications 
 
-* Questionnaire Format 
+* Interview questions Format 
 	1. Pre-Application explanation
 	   * What is your student id and major? 
 	   * Do you keep track of your GPA during the semester? 
@@ -77,6 +77,7 @@
 	   * Any questions? 
 
 **3rd Online Group Meeting**
+
 * Broke down what we needed for second milestone 
 * Discussed where to put processed data from survey and interview in project justification and feasibility study 
 * Talked about potential application development platforms, Web app vs Android native app.  
@@ -229,6 +230,7 @@
 	* [ ] Access and pull from sqlite- In progress 
 	* [ ] Update sql data and reflect in correct fields- Blocked 
 
+![Humor](image/fun1.PNG)
 
 ### 25th October 2018  
 **Scrum meeting and Reflections**
