@@ -180,12 +180,12 @@
 
 * Planned out database: SQLite and Firebase. Placed in [GoogleDocs]("https://docs.google.com/document/d/1ksK1Qfhbh1xTBcslMPMNRTmRkhU5SfPA6kae7zHxV9M/edit?usp=sharing")
 * My tasks :
-           * Add functionality to course detail page- Got assigned to Christopher 
-	   * Create year detail page UI- (was assigned originally to Michael) Completed 
-	   * Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
-	   * Write to sqlite- In progress(Paused) 
-	   * Access and pull from sqlite- In progress (Paused) 
-	   * Update sql data and reflect in correct fields 
+	* Add functionality to course detail page- Got assigned to Christopher 
+	* Create year detail page UI- (was assigned originally to Michael) Completed 
+	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
+	* Write to sqlite- In progress(Paused) 
+	* Access and pull from sqlite- In progress (Paused) 
+	* Update sql data and reflect in correct fields 
 
 ### 20th October 2018  
 ## ToDo's 
@@ -212,7 +212,6 @@
 Did create separate functions for all. Seemed the cleanest,safest and easiest to document route. 
 * Learned a lot about the Cursor interface [Google Developers 1]("https://developer.android.com/reference/android/database/Cursor#getColumnIndexOrThrow(java.lang.String)")and [Google Developers 2]("https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%204/101_c_sqlite_database.html")
 
-
 * My tasks : 
         * Add functionality to course detail page- Got assigned to Christopher 
 	* Create year detail page UI- (was assigned originally to Michael) Completed 
@@ -236,7 +235,7 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 * UI and HCI Designs have been scrapped. New designs were created by Azel and Michael. 
 
 * My tasks :
-        * Add functionality to course detail page- Got assigned to Christopher 
+	* Add functionality to course detail page- Got assigned to Christopher 
 	* Create year detail page UI- (was assigned originally to Michael) Completed 
 	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
 	* Write to sqlite- In progress- Completed(Got scrapped) 
@@ -250,9 +249,8 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 * Review existing code for firbase (trace through, check for bugs etc) 
 * Todo: Google Auth sign out, and find out why it gets a null pointer when through out the class it can access the GoogleSignInClient fine 
 
-
 * My tasks : 
-        * Add functionality to course detail page- Got assigned to Christopher 
+	* Add functionality to course detail page- Got assigned to Christopher 
 	* Create year detail page UI- (was assigned originally to Michael) Completed 
 	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
 	* Write to sqlite- In progress- Completed(Got scrapped) 
