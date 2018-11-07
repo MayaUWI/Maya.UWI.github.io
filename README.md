@@ -131,10 +131,10 @@
 * Made sure everyone had access to android studio files via git 
 * Started working on tasks from sprint back log 
 * My tasks :  
-		* Add functionality to course detail page- Got assigned to Christopher 
-		* Write to sqlite 
-		* Access and pull from sqllite 
-		* Update sql data and reflect in correct fields 
+	* Add functionality to course detail page- Got assigned to Christopher 
+	* Write to sqlite 
+	* Access and pull from sqllite 
+	* Update sql data and reflect in correct fields 
 
 * I will start as soon as the classes are structured so I can know what variables to store etc. Created classes with explanation so group will know what the classes added are for 
            
@@ -143,11 +143,11 @@
 				 
 * I have not started the tasks related to the sqlite as yet. 
 * My tasks :  
-                * Add functionality to course detail page- Got assigned to Christopher 
-	        * Create year detail page UI- (was assigned originally to Michael) Com
-		* Write to sqlite 
-		* Access and pull from sqllite 
-		* Update sql data and reflect in correct fields 
+	* Add functionality to course detail page- Got assigned to Christopher 
+	* Create year detail page UI- (was assigned originally to Michael) Com
+	* Write to sqlite 
+	* Access and pull from sqllite 
+	* Update sql data and reflect in correct fields 
 		
 * Conflicts:  Team code being pushed to git has errors. 
 * UI might need further discussion with group 
