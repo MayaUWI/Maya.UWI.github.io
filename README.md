@@ -286,8 +286,8 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 * The users from the one-on-one and interviews will be used for User testing after Circle CI and Application test cases are implemented 
 * Switching of roles Product-Owner and SCRUM Master will be decided in meeting before second sprint.
 
-![Tutorial Links](image/disc1.png)
-![Tutorial Links](image/disc2.png)
+![Tutorial Links](image/disc1.PNG)
+![Tutorial Links](image/disc2.PNG)
 
 
 
