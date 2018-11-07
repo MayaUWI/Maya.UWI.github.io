@@ -119,13 +119,13 @@
 * Some tasks were removed and will be reintroduced in second sprint (Firebase, Predictive calculations etc) 
 * My tasks :  
 
-	* Add functionality to course detail page 
-	* Write to sqlite 
-	* Access and pull from sqllite 
-	* Update sql data and reflect in correct fields 
+	* [ ] Add functionality to course detail page 
+	* [ ] Write to sqlite 
+	* [ ] Access and pull from sqllite 
+	* [ ] Update sql data and reflect in correct fields 
 
 * Next meeting we will discuss architecture, group git practices and code structure and practices 	
-
+ 
 ### 11th October 2018  
 **6th online group meeting**
 
@@ -134,10 +134,10 @@
 * Made sure everyone had access to android studio files via git 
 * Started working on tasks from sprint back log 
 * My tasks :  
-	* Add functionality to course detail page- Got assigned to Christopher 
-	* Write to sqlite 
-	* Access and pull from sqllite 
-	* Update sql data and reflect in correct fields 
+	* [ ] Add functionality to course detail page- Got assigned to Christopher 
+	* [ ] Write to sqlite 
+	* [ ] Access and pull from sqllite 
+	* [ ] Update sql data and reflect in correct fields 
 
 * I will start as soon as the classes are structured so I can know what variables to store etc. Created classes with explanation so group will know what the classes added are for 
            
@@ -146,11 +146,11 @@
 				 
 * I have not started the tasks related to the sqlite as yet. 
 * My tasks :  
-	* Add functionality to course detail page- Got assigned to Christopher 
-	* Create year detail page UI- (was assigned originally to Michael) Com
-	* Write to sqlite 
-	* Access and pull from sqllite 
-	* Update sql data and reflect in correct fields 
+	* [ ] Add functionality to course detail page- Got assigned to Christopher 
+	* [x] Create year detail page UI- (was assigned originally to Michael) 
+	* [ ] Write to sqlite 
+	* [ ] Access and pull from sqllite 
+	* [ ] Update sql data and reflect in correct fields 
 		
 * Conflicts:  Team code being pushed to git has errors. 
 * UI might need further discussion with group 
@@ -188,12 +188,12 @@
 
 * Planned out database: SQLite and Firebase. Placed in [GoogleDocs]("https://docs.google.com/document/d/1ksK1Qfhbh1xTBcslMPMNRTmRkhU5SfPA6kae7zHxV9M/edit?usp=sharing")
 * My tasks :
-	* Add functionality to course detail page- Got assigned to Christopher 
-	* Create year detail page UI- (was assigned originally to Michael) Completed 
-	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
-	* Write to sqlite- In progress(Paused) 
-	* Access and pull from sqlite- In progress (Paused) 
-	* Update sql data and reflect in correct fields 
+	* [ ] Add functionality to course detail page- Got assigned to Christopher 
+	* [x] Create year detail page UI- (was assigned originally to Michael)  
+	* [x] Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master) 
+	* [ ] Write to sqlite- In progress(Paused) 
+	* [ ] Access and pull from sqlite- In progress (Paused) 
+	* [ ] Update sql data and reflect in correct fields 
 ![SQL schema planning](image/sqldraw.jpg)
 	
 
@@ -204,12 +204,12 @@
 * Will not link new GPA table to Years table as that can be calculated by application  _(YearGPA= SUM(select semester.CurrentGPa as results where ....)/count(results))_  something like that...  
 * Decide whether to make a general adapter that handles all table creation,deletion and update with the same functions. or create separate functions for all 7 tables (... probably not the latter) 
 * My tasks :
-	* Add functionality to course detail page- Got assigned to Christopher 
-	* Create year detail page UI- (was assigned originally to Michael) Completed 
-	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
-	* Write to sqlite- In progress(continued) 
-	* Access and pull from sqlite- In progress (Paused) 
-	* Update sql data and reflect in correct fields 
+	* [ ] Add functionality to course detail page- Got assigned to Christopher 
+	* [x] Create year detail page UI- (was assigned originally to Michael)  
+	* [x] Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master) 
+	* [ ] Write to sqlite- In progress(continued) 
+	* [ ] Access and pull from sqlite- In progress (Paused) 
+	* [ ] Update sql data and reflect in correct fields 
 
 
 ### 24th October 2018  
@@ -218,17 +218,16 @@
 * Scrapped Planned sql schema... Reviewed and Reconstructed [New Schema's]("https://docs.google.com/document/d/1037-ddsonv-Jqjo_1Z0Y59nhM1KTjyBACSI7nKGEpk4/edit?usp=sharing")  
 * Spent 8 hours bringing the 2 functions GpaAdapter and SQLDataBaseHelper to par with previous content(capabilities). 
 * Pushed current work to show work is/was being done to the scrum master 
-* Decide whether to make a general adapter that handles all table creation,deletion and update with the same functions. or create separate functions for all 7 tables (... probably not the latter) 
-Did create separate functions for all. Seemed the cleanest,safest and easiest to document route. 
+* ~~Decide whether to make a general adapter that handles all table creation,deletion and update with the same functions. or create separate functions for all 7 tables (... probably not the latter)~~ Did create separate functions for all. Seemed the cleanest,safest and easiest to document route. 
 * Learned a lot about the Cursor interface [Google Developers 1]("https://developer.android.com/reference/android/database/Cursor#getColumnIndexOrThrow(java.lang.String)")and [Google Developers 2]("https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%204/101_c_sqlite_database.html")
 
 * My tasks : 
-	* Add functionality to course detail page- Got assigned to Christopher 
-	* Create year detail page UI- (was assigned originally to Michael) Completed 
-	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
-	* Write to sqlite- In progress- Completed 
-	* Access and pull from sqlite- In progress 
-	* Update sql data and reflect in correct fields- Blocked 
+	* [ ] Add functionality to course detail page- Got assigned to Christopher 
+	* [x] Create year detail page UI- (was assigned originally to Michael) 
+	* [x] Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)
+	* [x] Write to sqlite- In progress
+	* [ ] Access and pull from sqlite- In progress 
+	* [ ] Update sql data and reflect in correct fields- Blocked 
 
 
 ### 25th October 2018  
@@ -260,14 +259,14 @@ Did create separate functions for all. Seemed the cleanest,safest and easiest to
 * Todo: Google Auth sign out, and find out why it gets a null pointer when through out the class it can access the GoogleSignInClient fine 
 
 * My tasks : 
-	* Add functionality to course detail page- Got assigned to Christopher 
-	* Create year detail page UI- (was assigned originally to Michael) Completed 
-	* Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- Completed 
-	* Write to sqlite- In progress- Completed(Got scrapped) 
-	* Access and pull from sqlite- In progress(Got scrapped) 
-	* Update sql data and reflect in correct fields- Blocked(Got scrapped) 
-	* Firebase Offline (set persistence to enabled)- completed 
-	* Firebase Auth log out- Inprogress 
+	* [ ] Add functionality to course detail page- Got assigned to Christopher 
+	* [x] Create year detail page UI- (was assigned originally to Michael)  
+	* [x] Design and set-up SQLite and create environment (was pulled from a task that was still to bulky.Updated Scrumy and notified Scrum Master)- 
+	* [ ] Write to sqlite- In progress- Completed(Got scrapped) 
+	* [ ] Access and pull from sqlite- In progress(Got scrapped) 
+	* [ ] Update sql data and reflect in correct fields- Blocked(Got scrapped) 
+	* [x] Firebase Offline (set persistence to enabled)- 
+	* [ ] Firebase Auth log out- Inprogress 
 		
 ### 29th October 2018  
 **Sprint close off and review**
