@@ -290,7 +290,7 @@
 ![Tutorial Links](image/disc1.PNG)
 ![Tutorial Links](image/disc2.PNG)
 
-###11th November 2018
+### 11th November 2018
 **Before sprint meeting**
 * Group agreed to 3rd meeting date: Saturday and 9pm.
 * Azel will be the next Scrum master.
