@@ -45,8 +45,8 @@
 * Did a tutorial on how to set up and display hello world with django. 
 * Had multiple errors and setbacks (folder mix up and wrong path or name given). 
 * Kept getting weird syntax error, scrapped app and project, kept virtual environment and retried the steps. 
-* Learned tutorial was catering for 1.x.x version and the 2.x.x changed formats (path vs url) found new [tutorial](https://www.codementor.io/kratos/building-an-hello-world-application-with-python-django-95sysyr6v")
-* Merged new tutorials together.The [first tutorial]("https://djangobook.com/installing-django/") explained why and*what to watch out for but ended up googling what they meant out of confusion in some parts.And second mentioned in point before, helped with the displaying "Hello,world". However need to review it to understand the process more. 
+* Learned tutorial was catering for 1.x.x version and the 2.x.x changed formats (path vs url) found new [tutorial](https://www.codementor.io/kratos/building-an-hello-world-application-with-python-django-95sysyr6v)
+* Merged new tutorials together.The [first tutorial](https://djangobook.com/installing-django/) explained why and*what to watch out for but ended up googling what they meant out of confusion in some parts.And second mentioned in point before, helped with the displaying "Hello,world". However need to review it to understand the process more. 
 * Completed 1st task and 1/5 of second. 
 ![Learning Django](image/outcome.png)
 ![Learning Django](image/outcome2.png)
@@ -87,7 +87,7 @@
 * I was a bit hesitant about using unity (A game engine, for a non-graphical app. Maybe it’s possible to remove unneeded libraries, packages and features?), but if majority ruled I will put in the hard work 
 * Talked about using Xamarin...to be discussed further 
 
-* Wrote 2nd milestone in shared [Google doc](https://docs.google.com/document/d/1NO_lZkdvrAYv8T7Ms1wrXnUNyy6FGIgxm57Ky47fQ7I/edit?usp=sharing")
+* Wrote 2nd milestone in shared [Google doc](https://docs.google.com/document/d/1NO_lZkdvrAYv8T7Ms1wrXnUNyy6FGIgxm57Ky47fQ7I/edit?usp=sharing)
 * compromised on system requirements from currently available data from survey and interviews 
 * Analyze requirements using App description as guideline(set a project project scope) 
 * Paused group meeting to finish up another assignment 
@@ -103,10 +103,10 @@
 * Tasks were still too bulky and were broken down more by SCRUM Master and team 
 * Backlog discussion and breakdown took 2hrs, meeting was adjourned after agreement for a physical meeting tomorrow 2pm-3pm 
 
- ### 5th October 2018  
+### 5th October 2018  
 **Research, Self-Improvements and other activities- Update 2**
 
-* Reviewed group sprint backlog and revised my own from the tasks they created [Sprint backlog]('https://docs.google.com/document/d/1H7IePegMNoOtisnJLxQNtQF_TbOBIb-35PeHaqPONss/edit')
+* Reviewed group sprint backlog and revised my own from the tasks they created [Sprint backlog](https://docs.google.com/document/d/1H7IePegMNoOtisnJLxQNtQF_TbOBIb-35PeHaqPONss/edit)
 * Slightly concerned on how groups version is not done by modules(Performing tasks as small functioning products and slowly adding to it) but broken down into class implementing   
 * Read up on SCRUM, may request to be 3rd SCRUM master 
 * discussed with group sprint backlog I created. Hybrid was decided on tasks broken into similar categories focus still on class creations 
@@ -116,7 +116,7 @@
 
 * Discussed the assignment of tasks and final discussion of sprint log 
 * Everyone chose the tasks they are confident with 
-* Amanda introduced us to [Scrumy]('https://scrumy.com/sweproject'). We will use it to assign tasks and keep track of tasks 
+* Amanda introduced us to [Scrumy](https://scrumy.com/sweproject). We will use it to assign tasks and keep track of tasks 
 * Some tasks were removed and will be reintroduced in second sprint (Firebase, Predictive calculations etc) 
 * My tasks :  
 
@@ -174,7 +174,7 @@
 ![UI sketch #5](image/ui-sketch5.jpg)
 ![UI sketch #6](image/ui-sketch6.jpg)
 
-* Used tutorial for [SQLite DB]("https://javatutorial.net/android-sqlite-database-example"). May be made redundant when Firebase is implemented.  
+* Used tutorial for [SQLite DB](https://javatutorial.net/android-sqlite-database-example). May be made redundant when Firebase is implemented.  
 * Will not push anything yet as I am learning and remodeling to fit needs, thus new methods and additional arguments, change in schema and how certain method behave.  
 
 ### 18th-19th (late night work) October 2018  
@@ -187,7 +187,7 @@
 * Wrote down things I believed were needed for database by thinking data examples then branched out. Image below. 
 
 
-* Planned out database: SQLite and Firebase. Placed in [GoogleDocs]("https://docs.google.com/document/d/1ksK1Qfhbh1xTBcslMPMNRTmRkhU5SfPA6kae7zHxV9M/edit?usp=sharing")
+* Planned out database: SQLite and Firebase. Placed in [GoogleDocs](https://docs.google.com/document/d/1ksK1Qfhbh1xTBcslMPMNRTmRkhU5SfPA6kae7zHxV9M/edit?usp=sharing)
 * My tasks :
 	* [ ] Add functionality to course detail page- Got assigned to Christopher 
 	* [x] Create year detail page UI- (was assigned originally to Michael)  
@@ -216,11 +216,11 @@
 ### 24th October 2018  
 **Work Update**
 				 
-* Scrapped Planned sql schema... Reviewed and Reconstructed [New Schema's]("https://docs.google.com/document/d/1037-ddsonv-Jqjo_1Z0Y59nhM1KTjyBACSI7nKGEpk4/edit?usp=sharing")  
+* Scrapped Planned sql schema... Reviewed and Reconstructed [New Schema's](https://docs.google.com/document/d/1037-ddsonv-Jqjo_1Z0Y59nhM1KTjyBACSI7nKGEpk4/edit?usp=sharing)  
 * Spent 8 hours bringing the 2 functions GpaAdapter and SQLDataBaseHelper to par with previous content(capabilities). 
 * Pushed current work to show work is/was being done to the scrum master 
 * ~~Decide whether to make a general adapter that handles all table creation,deletion and update with the same functions. or create separate functions for all 7 tables (... probably not the latter)~~ Did create separate functions for all. Seemed the cleanest,safest and easiest to document route. 
-* Learned a lot about the Cursor interface [Google Developers 1]("https://developer.android.com/reference/android/database/Cursor#getColumnIndexOrThrow(java.lang.String)")and [Google Developers 2]("https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%204/101_c_sqlite_database.html")
+* Learned a lot about the Cursor interface [Google Developers 1](https://developer.android.com/reference/android/database/Cursor#getColumnIndexOrThrow(java.lang.String)and [Google Developers 2](https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%204/101_c_sqlite_database.html)
 
 * My tasks : 
 	* [ ] Add functionality to course detail page- Got assigned to Christopher 
@@ -256,7 +256,7 @@
 ### 26th October 2018  
 **Work Update 2**
 
-* Removed SQLite classes from project: [GpaAdapter]("https://gist.github.com/MayaUWI/c880c4dd6d6a2313818e87cdb291c4f3") and [SQLDataBaseHelper]("https://gist.github.com/MayaUWI/36f6ee98c9787a36f10dca766f1847d9") 
+* Removed SQLite classes from project: [GpaAdapter](https://gist.github.com/MayaUWI/c880c4dd6d6a2313818e87cdb291c4f3) and [SQLDataBaseHelper](https://gist.github.com/MayaUWI/36f6ee98c9787a36f10dca766f1847d9) 
 * Review existing code for firbase (trace through, check for bugs etc) 
 * Todo: Google Auth sign out, and find out why it gets a null pointer when through out the class it can access the GoogleSignInClient fine 
 
