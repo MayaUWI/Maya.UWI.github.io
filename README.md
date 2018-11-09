@@ -297,5 +297,5 @@
 * Michael will remain as the product owner.
 * Testing will be done saturday, user testing within the week (Tuesday hopefully)
 * Team discussed [2nd backlog](https://docs.google.com/document/d/11622hB5bmtMfLWnfNbIh-5QDW3icIt4tWNJm4WFN3Fc/edit)
-* Third backlog willbe allowing users to eadit grading schema
+* New Scrum board on [Scrumy](https://scrumy.com/sweproject_sprint2) 
 
