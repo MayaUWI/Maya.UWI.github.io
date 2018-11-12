@@ -290,7 +290,7 @@
 ![Tutorial Links](image/disc1.PNG)
 ![Tutorial Links](image/disc2.PNG)
 
-### 11th November 2018
+### 8th November 2018
 **Before sprint meeting**
 * Group agreed to 3rd meeting date: Saturday and 9pm.
 * Azel will be the next Scrum master.
@@ -298,4 +298,9 @@
 * Testing will be done saturday, user testing within the week (Tuesday hopefully)
 * Team discussed [2nd backlog](https://docs.google.com/document/d/11622hB5bmtMfLWnfNbIh-5QDW3icIt4tWNJm4WFN3Fc/edit)
 * New Scrum board on [Scrumy](https://scrumy.com/sweproject_sprint2) 
+
+### 12th November 2018
+**Sprint meeting**
+* ![Burn-Down Chart](image/bdc2.PNG) chart created by new SCRUM master Azel
+
 
