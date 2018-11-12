@@ -302,7 +302,8 @@
 ### 12th November 2018
 **Sprint meeting**
 * BurnDown chart created by new SCRUM master Azel 
-![Burn-Down Chart](image/bdc2.PNG)
-*
+
+![Burn-Down Chart](image/bdc2.png)
+
 
 
