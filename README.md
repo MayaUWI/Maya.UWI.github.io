@@ -302,8 +302,32 @@
 ### 12th November 2018
 **Sprint meeting**
 * BurnDown chart created by new SCRUM master Azel 
+![Burn-Down Chart](image/bdc2.PNG)
+* Sprints starts today.
+* Progress maybe slow as we have upcoming courseworks and assignments.
+* Azel is uploading the app to googleplay
+* Michael is hesitant to do the user testing, he want to brainstorm how we release this to the users and how testing is done. I think the app should be released and see how it survies in the wild (since that will really tell us if the app is great or not). Amanda is worried about the time constraints... Christopher just wants to get it done... Azel is trying to be the peace keeper.
+* I mentioned the ability to use Google user download count and anyother information Google provides. Users can also rate the app and give feedback in comments.Also, to release the app as a beta since we expext unexpected bugs/errors and the emails sent to users who agreed in the survey can hold a link to the Playstore.
+* Michael is the Project Owner, incharge of interaction with the users. He proposes a Google Feedback form and gave examples of what the form could entail. 
+* To end the debate, Christopher and Amanda offered to create the Google feed back form.
 
-![Burn-Down Chart](image/bdc2.png)
+* My Tasks: 
+	* Testing:
+		* [ ] Creating User Class
+		* [ ] Cumulative GPA Calculation
+		* [ ] Edit Profile Data
+		* [ ] Update Semester GPA Reflective of Course
+		
+Will start after Math CW and Assignments.
+		
+
+
+
+
+
+
+
+
 
 
 
