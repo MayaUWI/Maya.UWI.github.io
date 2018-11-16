@@ -332,7 +332,7 @@ Will start after Math CW and Assignments.
 * Everyone talked about what they did for the sprint so far.
 * Amanda created a card that will be sent to our users. 
 ![User App info Card](image/user.png)
-* I reported that I started my scrumy board tasks. Also, I shared a few tutorials and cleared up any misconceptions (Test vs androidTest).
+* I reported that I started my [scrumy](https://scrumy.com/sweproject_sprint2) board tasks. Also, I shared a few tutorials and cleared up any misconceptions (Test vs androidTest).
 
 
 
