@@ -320,7 +320,19 @@
 		
 Will start after Math CW and Assignments.
 		
+### 15th November 2018
+**Meeting and Sprint**
 
+**Meeting**
+* Talked about Circle CI
+* Azel invited us into his CI team
+* Michael had problems with his Android studio. His run configurations were... non existent. I worked with him to add back the configurations and the problem was solved.
+
+**Sprint**
+* Everyone talked about what they did for the sprint so far.
+* Amanda created a card that will be sent to our users. 
+![User App info Card](image/user.png)
+* I reported that I started my scrumy board tasks. Also, I shared a few tutorials and cleared up any misconceptions (Test vs androidTest).
 
 
 
