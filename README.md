@@ -335,9 +335,22 @@ Will start after Math CW and Assignments.
 * I reported that I started my [scrumy](https://scrumy.com/sweproject_sprint2) board tasks. Also, I shared a few tutorials and cleared up any misconceptions (Test vs androidTest).
 
 
+### 17 November 2018###
+**Sprint**
+* Christopher reported that he began his tasks and it can be pulled. He also found a floating variable that should have been assigned while writing tests.
+* Micheal is stil confused as to how testing works and after a breif explination and suggestion to watch everyones code, he seemed a little less hesitant.
+* Azel stated that he fixed a few bugs he found upon user testing.
+* Amanda, had issues with a few of the classes containing calcuations, but they were resolved after Azel repairs.
+* I have not done anything other than the two taks on the scrumy board and will continue on Tuesday.
 
+* We also shared things we learned. (pressing ctrl+shift+t, to creat a new test, other testing methods other than JUnit4, and understanding how Circle CI uses the tests we have writen).
 
-
+* My Tasks: 
+	* Testing:
+		* [ ] Creating User Class- Haitus( used a tutorial )
+		* [ ] Cumulative GPA Calculation- Inprogress
+		* [ ] Edit Profile Data- Inprogress
+		* [ ] Update Semester GPA Reflective of Course
 
 
 
