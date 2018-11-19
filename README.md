@@ -353,6 +353,13 @@ Will start after Math CW and Assignments.
 		* [ ] Update Semester GPA Reflective of Course
 
 
-
-
+### 19th November 2018###
+* should fix the overflow problem in the jounal side overview panel.
+**Sprint Meeting**
+* Meeting was rescheduled for 7pm.
+* Amanda reported that she found n error in the date class and made the corrections.
+* Circle ci have set up configuration problems so that needs to be fixed.
+* Christopher said that he has not done anything since Saturday.
+* Micheal said he completed a task and will continue to tackle the others.
+* I have not done anything else task wise. Looking up the errors given by Circle CI and will share with Azel what I've found.
 
