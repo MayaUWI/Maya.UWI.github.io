@@ -363,3 +363,21 @@ Will start after Math CW and Assignments.
 * Micheal said he completed a task and will continue to tackle the others.
 * I have not done anything else task wise. Looking up the errors given by Circle CI and will share with Azel what I've found.
 
+### 21st November 2018###
+**Sprint Day 6**
+
+* What I did in this sprint so far:
+	* Edit Circle CI confi files. Fix errors detected by Cirlce CI, status now from fail to Successful.
+	* Continue writing testing for the task assigned to me.
+	
+* Tutorials used left me a bit confused. But I learned that the reason the cache could not be recovered and saved is because we did not have our application file as the main files in our SWE repo. Thus, a "reroute" had to be done (told CI to look into a blank folder and feed the files needed into it). I am still a bit confused about CI, but willing to learn more about it.
+* Amanda expressed worry about doing Junit testing with firebase. I found mockito framework, and decided to do some reseach on it to see if it solves our problems (Will also ask sir for recommendations in class tomorrow).
+
+* My Tasks: 
+	* Testing:
+		* [x] Creating User Class
+		* [ ] Cumulative GPA Calculation- Inprogress
+		* [ ] Edit Profile Data- Inprogress
+		* [ ] Update Semester GPA Reflective of Course- Inprogress
+
+	
