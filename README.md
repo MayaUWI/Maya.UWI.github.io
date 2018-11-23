@@ -380,4 +380,11 @@ Will start after Math CW and Assignments.
 		* [ ] Edit Profile Data- Inprogress
 		* [ ] Update Semester GPA Reflective of Course- Inprogress
 
-	
+### 22nd November 2018###	
+**Srpint**
+* Amanda explained conversation with lecturer about our Firebase issue
+* Michael is having internet issues and will not be joining us
+* Azel wished to extend sprint to Monday
+* Waiting for User Feedback from Version 1.0(1.0 since 1st sprint on our error was multiple increments)
+* Learning from our errors. next increment will be version 1.3( 1.3 because we first fixed errors and bugs in code(1.2), then added the predictive grade features (1.3))
+* We will try to fix the firebase issue tonight.
