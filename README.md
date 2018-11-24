@@ -442,7 +442,7 @@ What could have been done instead :
 //HashMap k =  updateYearForUser(user,year);
 //UpdateYearFirebase(k,this);
 */
-public void UpdateYearFirebase(HashMap k,final  final FirebaseDatabaseHelper.Closable closable){
+public void UpdateYearFirebase(HashMap updates,final  final FirebaseDatabaseHelper.Closable closable){
 	if(!updates.ismpty()){
 		DatabaseReference myRef = FirebaseDatabaseHelper.getFirebaseDatabaseInstance().getReference();
 		myRef.child("years").updateChildren(updates).addOnCompleteListener(new OnCompleteListener<Void>() {
