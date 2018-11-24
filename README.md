@@ -335,7 +335,7 @@ Will start after Math CW and Assignments.
 * I reported that I started my [scrumy](https://scrumy.com/sweproject_sprint2) board tasks. Also, I shared a few tutorials and cleared up any misconceptions (Test vs androidTest).
 
 
-### 17 November 2018###
+### 17 November 2018
 **Sprint**
 * Christopher reported that he began his tasks and it can be pulled. He also found a floating variable that should have been assigned while writing tests.
 * Micheal is stil confused as to how testing works and after a breif explination and suggestion to watch everyones code, he seemed a little less hesitant.
@@ -353,7 +353,7 @@ Will start after Math CW and Assignments.
 		* [ ] Update Semester GPA Reflective of Course
 
 
-### 19th November 2018###
+### 19th November 2018
 * should fix the overflow problem in the jounal side overview panel.
 **Sprint Meeting**
 * Meeting was rescheduled for 7pm.
@@ -363,7 +363,7 @@ Will start after Math CW and Assignments.
 * Micheal said he completed a task and will continue to tackle the others.
 * I have not done anything else task wise. Looking up the errors given by Circle CI and will share with Azel what I've found.
 
-### 21st November 2018###
+### 21st November 2018
 **Sprint Day 6**
 
 * What I did in this sprint so far:
@@ -380,7 +380,7 @@ Will start after Math CW and Assignments.
 		* [ ] Edit Profile Data- Inprogress
 		* [ ] Update Semester GPA Reflective of Course- Inprogress
 
-### 22nd November 2018###	
+### 22nd November 2018	
 **Srpint**
 * Amanda explained conversation with lecturer about our Firebase issue
 * Michael is having internet issues and will not be joining us
