@@ -401,62 +401,6 @@ Will start after Math CW and Assignments.
 		* [ ] Update Semester GPA Reflective of Course- Inprogress
 
 **Worries**
-* "Proper" Testing will not be possible due to how our code is structured. What could have been done was the functions that perform tasks can return hashmaps to a Firebase function related to that funtions task. Example in UserController, the method updateYearForUser();
-
-~~~
-    public static void updateYearForUser(final User user, Year year, final FirebaseDatabaseHelper.Closable closable){
-        if(year != null) {
-            DatabaseReference myRef = FirebaseDatabaseHelper.getFirebaseDatabaseInstance().getReference();
-
-            HashMap<String, Object> updates = new HashMap<>();
-
-            updates.put(year.getYearId(), year);
-
-            myRef.child("years").updateChildren(updates).addOnCompleteListener(new OnCompleteListener<Void>() {
-                @Override
-                public void onComplete(@NonNull Task<Void> task) {
-                    closable.close(user);
-                }
-            });
-        }
-    }
-~~~
-
-What could have been done instead :
-1. updateYearForUser handles only getting the changed values from user
-~~~
-    public static HashMap updateYearForUser(final User user, Year year){
-        if(year != null) {
-            HashMap<String, Object> updates = new HashMap<>();
-
-            updates.put(year.getYearId(), year);
-            
-        return  updates;
-    }
-~~~
-2. UpdateYearFirebase uses the Hashmap from updateYearForUser();
-
-~~~
-/*
-//In the class EditYear, in function save()
-//HashMap k =  updateYearForUser(user,year);
-//UpdateYearFirebase(k,this);
-*/
-public void UpdateYearFirebase(HashMap updates,final  final FirebaseDatabaseHelper.Closable closable){
-	if(!updates.ismpty()){
-		DatabaseReference myRef = FirebaseDatabaseHelper.getFirebaseDatabaseInstance().getReference();
-		myRef.child("years").updateChildren(updates).addOnCompleteListener(new OnCompleteListener<Void>() {
-                @Override
-                public void onComplete(@NonNull Task<Void> task) {
-                    closable.close(user);
-                }
-            });
-	}
-}
-~~~
-* I will see if its possible to change all classes... Time however is very limited.
-
-* Ramble: The stucture of the current class example is not 'incorrect'. However, it limits us 'beginners' and until we master this I believe in doing with in capablities(don't sell what you cant fix) for outside work, and testing limits and expanding in personal work.
 
 * I Informed group that testing is a sign of a complete increment and that I could not find any reading that stated that testing was within sprint tasks. I did find that they are 'tasks' that should have been done throughout the sprint in parallel with development. Live and learn I guess. Testing for 2nd increment will be done in parallel (Hopefully).
 
