@@ -454,6 +454,8 @@ public void UpdateYearFirebase(HashMap updates,final  final FirebaseDatabaseHelp
 	}
 }
 ~~~
-* Will see if its possible to fix all the classes with these problems... Time however is very limited.
+* I will see if its possible to fix all the classes with these problems... Time however is very limited.
 
-* Informed group that testing is a sign of a complete increment and that I could not find any reading that stated that testing was within sprint tasks. I did find that they are 'tasks' that should have been done throughout the sprint in parallel with development. Live and learn I guess.
+* I Informed group that testing is a sign of a complete increment and that I could not find any reading that stated that testing was within sprint tasks. I did find that they are 'tasks' that should have been done throughout the sprint in parallel with development. Live and learn I guess. Testing for 2nd increment will be done in parallel (Hopefully).
+
+
