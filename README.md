@@ -438,7 +438,7 @@ What could have been done instead :
 
 ~~~
 /*
-//In the class __EditYear__  in function __save()__
+//In the class EditYear, in function save()
 //HashMap k =  updateYearForUser(user,year);
 //UpdateYearFirebase(k,this);
 */
