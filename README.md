@@ -400,4 +400,60 @@ Will start after Math CW and Assignments.
 		* [x] Edit Profile Data
 		* [ ] Update Semester GPA Reflective of Course- Inprogress
 
+**Worries**
+* "Proper" Testing will not be possible due to how our code is structured. What could have been done was the functions that perform tasks can return hashmaps to a Firebase function related to that funtions task. Example in UserController, the method updateYearForUser();
 
+~~~
+    public static void updateYearForUser(final User user, Year year, final FirebaseDatabaseHelper.Closable closable){
+        if(year != null) {
+            DatabaseReference myRef = FirebaseDatabaseHelper.getFirebaseDatabaseInstance().getReference();
+
+            HashMap<String, Object> updates = new HashMap<>();
+
+            updates.put(year.getYearId(), year);
+
+            myRef.child("years").updateChildren(updates).addOnCompleteListener(new OnCompleteListener<Void>() {
+                @Override
+                public void onComplete(@NonNull Task<Void> task) {
+                    closable.close(user);
+                }
+            });
+        }
+    }
+~~~
+
+What could have been done instead :
+1. updateYearForUser handles only getting the changed values from user
+~~~
+    public static HashMap updateYearForUser(final User user, Year year){
+        if(year != null) {
+            HashMap<String, Object> updates = new HashMap<>();
+
+            updates.put(year.getYearId(), year);
+            
+        return  updates;
+    }
+~~~
+2. UpdateYearFirebase uses the Hashmap from updateYearForUser();
+
+~~~
+/*
+//In the class __EditYear__  in function __save()__
+//HashMap k =  updateYearForUser(user,year);
+//UpdateYearFirebase(k,this);
+*/
+public void UpdateYearFirebase(HashMap k,final  final FirebaseDatabaseHelper.Closable closable){
+	if(!updates.ismpty()){
+		DatabaseReference myRef = FirebaseDatabaseHelper.getFirebaseDatabaseInstance().getReference();
+		myRef.child("years").updateChildren(updates).addOnCompleteListener(new OnCompleteListener<Void>() {
+                @Override
+                public void onComplete(@NonNull Task<Void> task) {
+                    closable.close(user);
+                }
+            });
+	}
+}
+~~~
+* Will see if its possible to fix all the classes with these problems... Time however is very limited.
+
+* Informed group that testing is a sign of a complete increment and that I could not find any reading that stated that testing was within sprint tasks. I did find that they are 'tasks' that should have been done throughout the sprint in parallel with development. Live and learn I guess.
