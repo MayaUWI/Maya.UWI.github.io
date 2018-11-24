@@ -388,3 +388,16 @@ Will start after Math CW and Assignments.
 * Waiting for User Feedback from Version 1.0(1.0 since 1st sprint on our error was multiple increments)
 * Learning from our errors. next increment will be version 1.3( 1.3 because we first fixed errors and bugs in code(1.2), then added the predictive grade features (1.3))
 * We will try to fix the firebase issue tonight.
+
+### 23rd November 2018
+**Sprint Updates**
+* Managed to work around firebase. Shared with team and now waiting for feedback to see if it worked for them also.
+* Recommended that we record our next meeting to include in our journals.
+* My Tasks: 
+	* Testing:
+		* [x] Creating User Class
+		* [ ] Cumulative GPA Calculation- Inprogress
+		* [x] Edit Profile Data
+		* [ ] Update Semester GPA Reflective of Course- Inprogress
+
+
