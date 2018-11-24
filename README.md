@@ -454,7 +454,9 @@ public void UpdateYearFirebase(HashMap updates,final  final FirebaseDatabaseHelp
 	}
 }
 ~~~
-* I will see if its possible to fix all the classes with these problems... Time however is very limited.
+* I will see if its possible to change all classes... Time however is very limited.
+
+* Ramble: The stucture of the current class example is not 'incorrect'. However, it limits us 'beginners' and until we master this I believe in doing with in capablities(don't sell what you cant explain or fix) for outside work, and testing limits and expanding in personal work.
 
 * I Informed group that testing is a sign of a complete increment and that I could not find any reading that stated that testing was within sprint tasks. I did find that they are 'tasks' that should have been done throughout the sprint in parallel with development. Live and learn I guess. Testing for 2nd increment will be done in parallel (Hopefully).
 
