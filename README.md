@@ -405,3 +405,11 @@ Will start after Math CW and Assignments.
 * I Informed group that testing is a sign of a complete increment and that I could not find any reading that stated that testing was within sprint tasks. I did find that they are 'tasks' that should have been done throughout the sprint in parallel with development. Live and learn I guess. Testing for 2nd increment will be done in parallel (Hopefully).
 
 
+### 24 November 2018
+**Sprint meeting**
+* Was reported that our google loggin was not working. I informed the group that it was because we werent using the new google assigned SHA1 key on 'app realease'.
+* Everyone talked about the stand still with the firebase problem
+* was discussed that that will be fixed by tomorrow.
+* Michael reported that the emails sent out went to Junk. ( This was mostlikely since the newly created email was used to send it. Emails with low inbox count and max send outs tend to be filtered out/placed in junk)
+* Michael will resend the invite cards using his email.
+* Sending app link and feedback form to my Hall, will try to get pictures of them utilizing the app, recording too if they feel generous.
