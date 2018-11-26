@@ -469,3 +469,7 @@ add the reference object where needed.
 * The same with SemesterGPACalculationTest, create Semester object referencing global object and class objects do the same also.
 and Yay, build successful. :coffee: Moral of the story don't look at code when tired at 4:37 Am.
 * Will discuss issues with SemesterGPACalculationTest with Christopher (since it is his task).
+
+**Update 5:14**
+* Circle CI throws error on the same thing it just said successful on in previous push!
+* 5:15: push again, successful again... :neutral_face:
