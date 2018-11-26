@@ -492,3 +492,10 @@ and Yay, build successful. :coffee: Moral of the story don't look at code when t
 * Update Semester GPA: Christopher's previous task SemesterGPACalculationTest.java covers the unitTesting for this task, so I figured I can do UI testing for this too. If sprint is done it will be moved to done as the unit test should suffice. 
 ![Burndown Chart Update](image/bdc3.PNG)
 
+
+### 26th November 2018
+**Sprint last day**
+* Migrate UserControlTest from fork to Upstream/Azel branch
+* Honest thoughts: watching other's code is the hardest thing ever if you've always worked alone. 
+* Circle CI states successful for User controll push but NULL Pointer Exceptions in Azel/Main.
+* Try to fix in fork
