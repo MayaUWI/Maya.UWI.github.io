@@ -490,4 +490,5 @@ and Yay, build successful. :coffee: Moral of the story don't look at code when t
 		* [ ] Update Semester GPA Reflective of Course- InProgress
 * Edit Profile Data: Because of the nature of EditUser.java I beleive a UI test will be more suitable.
 * Update Semester GPA: Christopher's previous task SemesterGPACalculationTest.java covers the unitTesting for this task, so I figured I can do UI testing for this too. If sprint is done it will be moved to done as the unit test should suffice. 
+![Burndown Chart Update](image/bdc3.PNG)
 
