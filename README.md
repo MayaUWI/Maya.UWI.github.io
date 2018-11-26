@@ -415,7 +415,7 @@ Will start after Math CW and Assignments.
 * Michael will resend the invite cards using his email.
 * Sending app link and feedback form to my Hall, will try to get pictures of them utilizing the app, recording too if they feel generous.
 
-###26 Novemeber 2018
+### 26 Novemeber 2018
 **Sprint day 12**
 **CI battle - _Circle CI errors after a successful run in Android studio_**
 
