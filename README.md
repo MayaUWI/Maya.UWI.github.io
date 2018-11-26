@@ -525,6 +525,6 @@ and Yay, build successful. :coffee: Moral of the story don't look at code when t
 	* Testing:
 		* [x] Creating User Class
 		* [x] Cumulative GPA Calculation
-		* [?] Edit Profile Data- InProgress [1^]
+		  [?] Edit Profile Data- InProgress
 		* [x] Update Semester GPA Reflective of Course
 * _?_: I was informed that this is not within our current scope anymore.
