@@ -370,7 +370,7 @@ Will start after Math CW and Assignments.
 	* Edit Circle CI config files. Fix errors detected by Circle CI, status now from fail to Successful.
 	* Continue writing testing for the task assigned to me.
 	
-* Tutorials used left me a bit confused. But I learned that the reason the cache could not be restored and saved, gradle and tests not found   is because we did not have our application file as the main files in our SWE repo. Thus, a "reroute" had to be done (told CI to look into a blank folder and feed the files needed into it). I am still a bit confused about CI, but willing to learn more about it [^1]: *.
+* Tutorials used left me a bit confused. But I learned that the reason the cache could not be restored and saved, gradle and tests not found   is because we did not have our application file as the main files in our SWE repo. Thus, a "reroute" had to be done (told CI to look into a blank folder and feed the files needed into it). I am still a bit confused about CI, but willing to learn more about it.
 * Amanda expressed worry about doing Junit testing with firebase. I found Mockito framework, and decided to do some research on it to see if it solves our problems (Will also ask sir for recommendations in class tomorrow).
 
 * My Tasks: 
@@ -473,4 +473,4 @@ and Yay, build successful. :coffee: Moral of the story don't look at code when t
 **Update 5:14**
 * Circle CI throws error on the same thing it just said successful on in previous push!
 * 5:15: push again, successful again... :neutral_face:
-* could the problem be on the configurations done [^1] ?
+* could the problem be on the configurations done?
