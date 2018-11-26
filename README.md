@@ -499,7 +499,7 @@ and Yay, build successful. :coffee: Moral of the story don't look at code when t
 * Honest thoughts: watching other's code is the hardest thing ever if you've always worked alone. 
 * Circle CI states successful for User controll push but NULL Pointer Exceptions in Azel/Main.
 * Try to fix in fork
-* Circle CI...Will be placed on a shelf for now. One moment, no null pointer... next push, all the null pointers. I will focus on finishing my last tasks. Update Semester has been push to done as today is the last day and that it is tested already by christopher.
+* working with christopher to fix circle CI.
 
 * My Tasks: 
 	* Testing:
@@ -508,3 +508,23 @@ and Yay, build successful. :coffee: Moral of the story don't look at code when t
 		* [ ] Edit Profile Data- InProgress
 		* [x] Update Semester GPA Reflective of Course
 
+**Sprint Meeting**
+* Michael reported that he is done with his tasks
+* Amanada said she will be done by tonight
+* Christopher is Helping me with Errors
+* Azel is done with his tasks
+* We are working on implementing user feedback ( better wording of options etc)
+
+**Circle Ci - Battle 2**
+* Difference in test results between Christopher and I
+* We chatted on discord sharing findings and tracing issues, edited, pull and pushed sharing updates and solutions that minimized some errors.
+* We got all tests to work! 
+
+
+* My Tasks: 
+	* Testing:
+		* [x] Creating User Class
+		* [x] Cumulative GPA Calculation
+		* [?] Edit Profile Data- InProgress [1^]
+		* [x] Update Semester GPA Reflective of Course
+* _?_: I was informed that this is not within our current scope anymore.
