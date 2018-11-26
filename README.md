@@ -407,9 +407,14 @@ Will start after Math CW and Assignments.
 
 ### 24 November 2018
 **Sprint meeting**
+* [Meeting recording](https://drive.google.com/open?id=12Xu111u5PXLLtnOyBGqga2tbVlteoMw0)
 * Was reported that our google loggin was not working. I informed the group that it was because we werent using the new google assigned SHA1 key on 'app realease'.
 * Everyone talked about the stand still with the firebase problem
 * was discussed that that will be fixed by tomorrow.
 * Michael reported that the emails sent out went to Junk. ( This was mostlikely since the newly created email was used to send it. Emails with low inbox count and max send outs tend to be filtered out/placed in junk)
 * Michael will resend the invite cards using his email.
 * Sending app link and feedback form to my Hall, will try to get pictures of them utilizing the app, recording too if they feel generous.
+
+###25 Novemeber 2018
+**Sprint day 11**
+* 
