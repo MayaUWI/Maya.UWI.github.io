@@ -396,9 +396,9 @@ Will start after Math CW and Assignments.
 * My Tasks: 
 	* Testing:
 		* [x] Creating User Class
-		* [ ] Cumulative GPA Calculation- Inprogress
-		* [x] Edit Profile Data
-		* [ ] Update Semester GPA Reflective of Course- Inprogress
+		* [x] Cumulative GPA Calculation
+		* [ ] Edit Profile Data- InProgress
+		* [ ] Update Semester GPA Reflective of Course- InProgress
 
 **Worries**
 
@@ -474,3 +474,20 @@ and Yay, build successful. :coffee: Moral of the story don't look at code when t
 * Circle CI throws error on the same thing it just said successful on in previous push!
 * 5:15: push again, successful again... :neutral_face:
 * could the problem be on the configurations done?
+
+**AnroidTest- Expresso and JUnit**
+* Tutorials: 
+	* [ Set up project for AndroidX Test ](https://developer.android.com/training/testing/set-up-project)
+	* [Test UI for a single app ](https://developer.android.com/training/testing/ui-testing/espresso-testing#java)
+	* [UI Testing with Espresso](https://android.jlelse.eu/ui-testing-with-espresso-f5fab5fe3884)
+
+* Note read up more on 'From MVC to MVP' and MVP
+* My Tasks: 
+	* Testing:
+		* [x] Creating User Class
+		* [x] Cumulative GPA Calculation
+		* [ ] Edit Profile Data- InProgress
+		* [ ] Update Semester GPA Reflective of Course- InProgress
+* Edit Profile Data: Because of the nature of EditUser.java I beleive a UI test will be more suitable.
+* Update Semester GPA: Christopher's previous task SemesterGPACalculationTest.java covers the unitTesting for this task, so I figured I can do UI testing for this too. If sprint is done it will be moved to done as the unit test should suffice. 
+
