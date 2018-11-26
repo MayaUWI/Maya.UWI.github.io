@@ -444,7 +444,7 @@ UserController.addSemesterForUser(user, semester, null);
 
 * Same issue occurred in UserControllerTest.java (My task).
 * Circle CI reported a Null Pointer Exception. The problem was the variable assigned in the is equal function in Course.java. __edit: No that was not the problem__
-* I... made an error changing the a variable for no reason since I did not trace through properly: no_good: The only classes with problems are the Test ones. 
+* I... made an error changing the a variable for no reason since I did not trace through properly :no_good: The only classes with problems are the Test ones. 
 ~~~
 @Override
     public boolean equals(Object obj) {
