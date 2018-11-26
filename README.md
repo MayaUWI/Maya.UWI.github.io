@@ -500,8 +500,6 @@ and Yay, build successful. :coffee: Moral of the story don't look at code when t
 * Circle CI states successful for User controll push but NULL Pointer Exceptions in Azel/Main.
 * Try to fix in fork
 * Circle CI...Will be placed on a shelf for now. One moment, no null pointer... next push, all the null pointers. I will focus on finishing my last tasks. Update Semester has been push to done as today is the last day and that it is tested already by christopher.
-* Will attempt: (2)Colour target grades in Grey (next To each Assignment/ in course Test Etc.)
-
 
 * My Tasks: 
 	* Testing:
@@ -509,5 +507,4 @@ and Yay, build successful. :coffee: Moral of the story don't look at code when t
 		* [x] Cumulative GPA Calculation
 		* [ ] Edit Profile Data- InProgress
 		* [x] Update Semester GPA Reflective of Course
-		* [ ] Colour target grades in Grey (next To each Assignment/ in course Test Etc.)
 
