@@ -537,3 +537,15 @@ and Yay, build successful. :coffee: Moral of the story don't look at code when t
 		* [?] Edit Profile Data- InProgress
 		* [x] Update Semester GPA Reflective of Course
 * _?_: I was informed that this is not within our current scope anymore.
+
+### 27 November 2018
+**Sprint Closing up**
+* Testcases problems occured because multiple cases had the same user, thus data stored to the single database create inconsistencies since everyone thought that a new database instance would be created for each test ran. Amanda noticed the issue, and we worked till we figured that was the case.
+* Had sprint retrospective and close off, User testing for this will begin by tomorrow.
+* This sprint while shorter than our previous (which should of been multiple broken down) was more hectic since we were learning something new and the fact it was late in the semester.
+* If we could go back and do things properly we would, but we learned in the process of doing, and I will admit it was fun.
+* Ive actually have not had a decent group work experience before, and though there was times I was unsure about the dynamics, everything worked out well.
+* Whats left to do :
+	* Plan out presentation for Wednesday
+	* Clean up code
+	* Finish up Document	
