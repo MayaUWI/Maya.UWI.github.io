@@ -517,14 +517,14 @@ and Yay, build successful. :coffee: Moral of the story don't look at code when t
 
 **Circle Ci - Battle 2**
 * Difference in test results between Christopher and I
-![ci1](image/ci1.jpg)
-![ci2](image/ci2.jpg)
+![ci1](image/ci1.png)
+![ci2](image/ci2.png)
 
 * We chatted on discord sharing findings and tracing issues, edited, pull and pushed sharing updates and solutions that minimized some errors.
-![ci3](image/ci3.jpg)
-![ci4](image/ci4.jpg)
+![ci3](image/ci3.png)
+![ci4](image/ci4.png)
 * We got all tests to work! 
-![ci5](image/ci5.jpg)
+![ci5](image/ci5.png)
 
 * My Tasks: 
 	* Testing:
