@@ -279,7 +279,7 @@
 * Second sprint will be discussed after user testing  
 	 
 ### 1st November 2018  
-**Testing (unit, UI, etc and User) **
+**Testing (unit, UI, etc and User)**
 
 * Links to tutorials were shared in discord chat 
 * Discussed on what next week task is (Test Cases) and what methods are we going to use (Firebase? Android robolectric? Junit? espresso? All the above?) 
