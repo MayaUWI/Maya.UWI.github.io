@@ -1,3 +1,5 @@
 theme: jekyll-theme-time-machine
 title: [Software Engineering 2 Individual Report]
 description: [Journal of Progress in GPA calculator app]
+plugins:
+  - jemoji
