@@ -220,7 +220,7 @@
 * Spent 8 hours bringing the 2 functions GpaAdapter and SQLDataBaseHelper to par with previous content(capabilities). 
 * Pushed current work to show work is/was being done to the scrum master 
 * ~~Decide whether to make a general adapter that handles all table creation, deletion and update with the same functions. or create separate functions for all 7 tables (... probably not the latter)~~ Did create separate functions for all. Seemed the cleanest, safest and easiest to document route. 
-* Learned a lot about the Cursor interface [Google Developers 1](https://developer.android.com/reference/android/database/Cursor#getColumnIndexOrThrow(java.lang.String)and [Google Developers 2](https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%204/101_c_sqlite_database.html)
+* Learned a lot about the Cursor interface [Google Developers 1] (https://developer.android.com/reference/android/database/Cursor#getColumnIndexOrThrow(java.lang.String) and [Google Developers 2] (https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%204/101_c_sqlite_database.html)
 
 * My tasks : 
 	* [ ] Add functionality to course detail page- Got assigned to Christopher 
@@ -423,6 +423,7 @@ Will start after Math CW and Assignments.
 
 * Circle CI is...interesting. The current build is throwing a Null Pointer Exception in four classes SemesterGPACalculationTest.java, SemesterController.java, UserController.java and UserControllerTest.
 * For SemesterGPACalculationTest, the reason is the __Semester semester;__ statement.
+
 ~~~
 public class SemesterGPACalculationTest {
     private swe2slayers.gpacalculationapplication.models.User user;
@@ -432,19 +433,23 @@ public class SemesterGPACalculationTest {
     private static boolean alreadySetUp = false;
 
 ~~~
+
 * The object is Null and is assigned values in _@Before_. however, a local object referencing the global object is needed.
+
 ~~~
 semester = new Semester("Semester 1", originalYear.getYearId(), originalYear.getUserId());
 semester.setSemesterId("tempsemester1");
 ....
 UserController.addSemesterForUser(user, semester, null);	
 ~~~
+
 * However the object is still seen as null to circle CI. Thus the statement
 ![CI Error](image/CIbug1.PNG)
 
 * Same issue occurred in UserControllerTest.java (My task).
 * Circle CI reported a Null Pointer Exception. The problem was the variable assigned in the is equal function in Course.java. __edit: No that was not the problem__
 * I... made an error changing the a variable for no reason since I did not trace through properly :no_good: The only classes with problems are the Test ones. 
+
 ~~~
 @Override
     public boolean equals(Object obj) {
@@ -455,6 +460,7 @@ UserController.addSemesterForUser(user, semester, null);
 
 * OK! After the 5th regroup and push, UserControllerTest was fixed by creating a User object use that references the global object(user) and
 add the reference object where needed.
+
 ~~~
  public void updateCourseForUser() {
         ...
@@ -466,6 +472,7 @@ add the reference object where needed.
         UserController.updateCourseForUser(use,c,null);
     }
 ~~~
+
 * The same with SemesterGPACalculationTest, create Semester object referencing global object and class objects do the same also.
 and Yay, build successful. :coffee: Moral of the story don't look at code when tired at 4:37 Am.
 * Will discuss issues with SemesterGPACalculationTest with Christopher (since it is his task).
