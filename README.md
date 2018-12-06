@@ -479,7 +479,7 @@ and Yay, build successful. :coffee: Moral of the story don't look at code when t
 
 **Update 5:14**
 * Circle CI throws error on the same thing it just said successful on in previous push!
-* 5:15: push again, successful again... :neutral_face:
+* 5:15: push again, successful again...  :neutralface:
 * could the problem be on the configurations done?
 
 **AnroidTest- Expresso and JUnit**
